@@ -1,3 +1,4 @@
 ﻿# Natours-Project
-
-Repo with files from Adavanced CSS and Sass Udemy course
+ 
+Files from Adavanced CSS and Sass Udemy course.
+Repo to learning how to use Git and Github.
