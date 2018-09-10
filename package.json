@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Krd/Natours-Project.git"
+  },
+  "author": "Kordian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Krd/Natours-Project/issues"
+  },
+  "homepage": "https://github.com/The-Krd/Natours-Project#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
