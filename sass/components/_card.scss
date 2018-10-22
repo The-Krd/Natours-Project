@@ -157,10 +157,11 @@
         font-size: 6rem;
         font-weight: 100;
     }
+    
+    // @include respond(tab-port) 
+        @media only screen and (mam-width: 56.25em),
+               only screen and (hover: none) {
 
-
-
-    @include respond(tab-port) {
         height: auto;
         border-radius: 3px;
         background-color: $color-white;
